@@ -1,2 +1,7 @@
 .fvm/flutter_sdk
 .vscode/settings.json
+.dart_tool/
+.packages
+build/
+
+.idea/
